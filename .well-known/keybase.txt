@@ -1,0 +1,88 @@
+==================================================================
+https://keybase.io/resolvno
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://resolv.no
+  * I am resolvno (https://keybase.io/resolvno) on keybase.
+  * I have a public key with fingerprint E275 0AE7 950C A727 4060  A117 DAF7 FD8B 451F 7DC3
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01208084dcf5d82f25871fe79fa74d252ecf2a44a1004f6f883024fc914424d49c190a",
+      "fingerprint": "e2750ae7950ca7274060a117daf7fd8b451f7dc3",
+      "host": "keybase.io",
+      "key_id": "daf7fd8b451f7dc3",
+      "kid": "0101789d7a3e8302e02d9175731f856ed5471ac136d974e4ccbeafb1a6860b1951b30a",
+      "uid": "e602e49c98e643b0cf1b5d615f47b319",
+      "username": "resolvno"
+    },
+    "merkle_root": {
+      "ctime": 1626264397,
+      "hash_meta": "d511886c0d02f7b505c5d1d0f1c45cb95e396ad190246b14002bc478e6c6a40f",
+      "seqno": 20374572
+    },
+    "revoke": {
+      "sig_ids": [
+        "9515275b2d9805ab666a5f9234187b917daa4a4bd164287b75a7e99e18c676580f"
+      ]
+    },
+    "service": {
+      "hostname": "resolv.no",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1626264402,
+  "expire_in": 157680000,
+  "prev": "a49b3341efb9f94fac90a69f00aadd14d5fa791381ffff9d1e97d6236912be73",
+  "seqno": 10,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMP/AnicbVN9bBRFFD+upaUtnIAQQT5K14TPgjO7szM7BQXRlvIVIjTBBvGY3Z25
+HtfeHXfXQnspNCCoIWlMtQSqyFeFCrbQlFgLxNrSKIkBihJICSBCIAQjFKwBCoKz
+jcSQOPvHZl5+7/d+7/fedAxKcKX2u3D/783Z6eXH+/3UHit2rbj9y+K4YobsUiUr
+rgR4348X2jwa8wb8tpKlAKgCAxjItoRuG6pQdYNAwQkVjCBb1VVuCZUhxCAASGBh
+GBpQkbAoREhFNqIWpIApmYrwB308Eo74gzFJy1WiAyZpdGAxohIEMGAQEpsJImzD
+RDoUxLY0mVgQijoZUpzJonyaPyRj8uLtk/c/+Ge6ASQGtQnTuCOJA9WmkOhEg8LQ
+Mbd1RCCzoIZtShBHlmVyJkzIsIGBCakOTa1Pd3EfHceSQjZDDY6RZgJLQFO3MdQF
+IqYGqQOM8kiQFXGJjvBoqLAkGFLKM5UiHgkUcm8kFIo55loxvwOBWJUf0iiRDbJo
+gbeIx5jTjw6hYWAL2EAVxNSBbuk2tIGAFtItk+pco5jZ0lMVYRMiAFTTQkSqsjBD
+QEgdUb5KVs5SgUaQTlQpIcJLQgHuVI/6fdK3qJK1TJEd6nIIprTFADozMcZMF1TV
+EDSISZ1RMMSQaUOMVBkhOiOcUg4NCxOsG7LW8nKnWqTEb/WRO4N6zoBpQWdW4Ugo
+FrJChTJcEIuFo1mOK7HSsINbzU3vvwxe0x+05Y7IjBIeifpDQemSRD5vGAJqpsLX
+hP0R7vU7CJ1gA8jj1OElkpIhamqyCS5MKigSzJL7h6kAgDHbhsjW5eZSqBlQyENt
+yCmxsaphClWTE+0/B6EkjTGf5JS2BVmsOMKV8va2dxNd/VJdSf3dzuNxpaYMfvak
+NnheeIIvNI/4cWrM9zAbdH9dtTDxRMbEllFv9Nxb3urpuuR+fcyh1YdP716+84HV
+cWj3uq++nF3nuetZv1Fzn88e3/xOVUVSYbw6+68fkve2VA+9dTLHym08XDnzytHX
+Zt3Zdy5/V/L89mJtXVrFlJGpZ3zD+vOUWz+7DlRM7Po9ffi+QdNLO7fXNB7fcrHp
+1Edvek/UH2u4sadsza4m0GIPsxLfn3Xpcnx0fm24PKEjZ83oM4GOouy5+3fUViX3
+5C5trG3omXdwbMmY2p7OC/E9DfsX5VQlb7+Mo1sfBx5zkTvzTu8X7sqWtuxPxrXl
+JFfPUZ7ULv3mztmMpZWUwmUNA9yTurrT/rzrbiqtGH6pZv3ZlQdmZSyrf9Q5JNz7
+xo3mTSMqJ6RNbD65ZeTIhIOBz9fnvXJtKJvw3hFOhrk2vPjSHDh27Nr8+p0zttev
+EJ1HwQdK6+Xv2wsmLzxZMN296/7cJSM+9RirFwxamdPUO+6Pmu6H529eva6ervHc
+fmtwS+3aI0Pq1w65Wl3XkuRJ7MlLSLu5sWH3scXeaxmdg59srGucPebpiotXbvcW
+zJ+8mYvM78rSt7rn/drpS/8tPf/xwCmHWruSkro3zb9fNrNt1MsHFzXm3bu+atuD
+Se0DT8UXDK17OtXbexgv+Vgpm7E1f/jC+KM9lb4dJwonf4s//Gzz3vFvp6hlr27b
+1rC/Na9/boo+4Bxi/wA0e/mq
+=ugec
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/resolvno
+
+==================================================================
