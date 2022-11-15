@@ -1,0 +1,3 @@
+Contact: mailto:post@resolv.no
+Contact: mailto:hostmaster@resolv.no
+Encryption: https://keybase.io/resolvno/pgp_keys.asc
