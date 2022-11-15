@@ -1,0 +1,2 @@
+# www
+https://resolv.no
